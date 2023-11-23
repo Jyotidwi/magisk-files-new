@@ -1,6 +1,4 @@
-# Magisk Delta
-
-This repo hosts Magisk delta related files
+# Kitsune Mask
 
 ![Delta](https://user-images.githubusercontent.com/84650617/222942594-63336f63-6a26-492e-a1d1-a356b5f777b3.png)
 
